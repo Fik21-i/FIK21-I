@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fik21-i&label=Profile%20views&color=0e75b6&style=flat" alt="fik21-i" /> </p>
 
 
-- 🔭 I’m currently working on **Synctexts Solution**
 
 - 🌱 I’m currently learning **Laravel , FilamentPHP , Java**
 
